@@ -1,7 +1,7 @@
 ### yo
 
-## curret (incomplete) things:
+## current (incomplete) things:
 Mindustry/Annoical
 
-## curret (complete) things:
+## current (complete) things:
 Mindusry/Music-Player
