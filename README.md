@@ -1,6 +1,6 @@
 # yo
 
 ## current (incomplete) things:
-Mindustry/Annoical
+Mindustry/Annoica
 ## current (complete) things:
-Mindusry/Music-Player
+Mindustry/Music-Player
