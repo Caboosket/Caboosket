@@ -1,8 +1,8 @@
 # yo
 
-## current (incomplete) things:
+## current(incomplete) things:
 Mindustry/Annoica
-
-Annoica/Classes
-## current (complete) things:
+## current(complete) things:
 Mindustry/Music-Player
+## thrashed things
+Annoica/Classes
